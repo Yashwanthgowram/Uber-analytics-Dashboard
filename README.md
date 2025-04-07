@@ -7,50 +7,44 @@ This Power BI dashboard offers an in-depth analysis of Uber ride data, helping u
 ---
 
 ## 📊 Key Metrics
-- **Total Bookings:** 103.7K rides were completed during the analysis period.  
-- **Total Booking Value:** $1.6M in revenue generated from trips.  
-- **Average Booking Value:** $15 per ride on average.  
-- **Total Trip Distance:** 349K miles recorded across all trips.  
-- **Average Trip Distance:** 3 miles per ride.  
-- **Average Trip Time:** 16 minutes per trip.
+- Total bookings  
+- Total booking value  
+- Average booking value  
+- Total trip distance  
+- Average trip distance  
+- Average trip duration  
 
 ---
 
 ## 🚘 Vehicle Type Analysis
-- **Most Booked Vehicle:** UberX with 38.7K bookings  
-- **Top Revenue Generator:** UberX with $581K  
-- **Other vehicle types include:** UberXL, Uber Green, Uber Comfort, and Uber Black – each showing revenue and distance efficiency trends.
+- Breakdown of ride performance by vehicle type (e.g., UberX, UberXL, Uber Comfort, etc.)  
+- Comparison of booking counts, revenue, and trip distances across vehicle types  
 
 ---
 
 ## ⌚ Time-based Analysis
-- **Peak Booking Hours:** 4 PM to 9 PM showed the highest activity.  
-- **Booking Trends by Day:** Bookings peak on weekends, especially Saturday (19.2K) and Friday (18.7K).  
-- **Heatmap Analysis:** Visualizes hourly demand across the week, highlighting strategic scheduling windows.
+- Booking distribution by hour of day and day of week  
+- Peak and off-peak demand trends  
+- Heatmap for hour-by-day analysis to support scheduling and demand forecasting  
 
 ---
 
 ## 💳 Payment & Trip Type Breakdown
-- **Payment Methods:** 
-  - Uber Pay: 66.5%  
-  - Cash: 32.8%  
-- **Trip Timing:** 
-  - Day Trips: 65.5%  
-  - Night Trips: 34.6%
+- Analysis of payment methods used (e.g., Uber Pay, Cash)  
+- Categorization of trips based on time of day (day vs. night trips)
 
 ---
 
 ## 📍 Location Analysis
-- **Most Frequent Pickup Point:** Penn Station / Madison Sq West  
-- **Most Frequent Drop-off Point:** Upper East Side North  
-- **Farthest Trip:** From Lower East Side → Crown Heights North  
-- **Top Locations by Booking Volume:** Bar charts highlight key demand hotspots across the city.
+- Most frequent pickup and drop-off points  
+- Insights into trip distribution across key locations  
+- Identification of the farthest trip for operational planning  
 
 ---
 
 ## 🚗 Vehicle Preferences by Pickup Location
-- **Most Preferred Vehicle:** UberX remains dominant across most locations.  
-- **Customer Trends:** Preferences vary by area and trip type, informing fleet allocation decisions.
+- Evaluation of most preferred vehicle types across pickup locations  
+- Helps guide supply allocation and improve rider experience  
 
 ---
 
